@@ -1,0 +1,8 @@
+-q -%i -w https://clickbuyhere.com/teds-woodworking/ -O "/Users/kelven/websites/TedsWoodworking" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F none -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" https://clickbuyhere.com/teds-woodworking/ -%s -%u
+File generated automatically on Wed, 28 Sep 2022 10:27:32, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
