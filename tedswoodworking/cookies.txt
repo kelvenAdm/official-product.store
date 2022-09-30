@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-app.boletizze.com	TRUE	/	FALSE	1999999999	PHPSESSID	57ed9a21fafec04eb696ed1a60a998e2
-.youtube.com	TRUE	/	FALSE	1999999999	YSC	gvW3n4KrP9g
-.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	ArfRufTfHek
-www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
-
