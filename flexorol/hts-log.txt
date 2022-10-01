@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Sat, 01 Oct 2022 15:20:11 at https://flexorol.com/report?aff_id=18&subid2=7598_sessid2022100118188721&subid=2366 https://flexorol.com/report?aff_id=18&subid2=7598_sessid2022100118188721&subid=2366
+(webhttrack -q -%i -iC2 https://flexorol.com/report?aff_id=18&subid2=7598_sessid2022100118188721&subid=2366 -O "/Users/kelven/websites/flexorol" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F none -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" https://flexorol.com/report?aff_id=18&subid2=7598_sessid2022100118188721&subid=2366 -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:20:14	Warning: 	Link https://flexorol.com/report?aff_id=18&subid2=7598_sessid2022100118188721&subid=2366 not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 2 links scanned, 1 files written (281381 bytes overall) [63112 bytes received at 21037 bytes/sec], 281381 bytes transferred using HTTP compression in 1 files, ratio 21%
+(No errors, 1 warnings, 0 messages)
