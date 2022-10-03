@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-15:20:14	281381/281381	---MCZ	200	added ('OK')	text/html	date:Sat,%2001%20Oct%202022%2018:20:12%20GMT	https://flexorol.com/report?aff_id=18&subid2=7598_sessid2022100118188721&subid=2366	/Users/kelven/websites/flexorol/flexorol.com/report32d2.html	(from )
-15:20:14	24/24	---M--	200	added ('OK')	text/plain	etag:%2262f3b9ff-18%22	https://flexorol.com/robots.txt		(from )
